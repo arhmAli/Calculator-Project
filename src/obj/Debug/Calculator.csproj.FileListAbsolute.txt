@@ -1,0 +1,41 @@
+D:\..C++\4th\Zuni\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\..C++\4th\Zuni\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\..C++\4th\Zuni\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\..C++\4th\Zuni\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\..C++\4th\Zuni\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\..C++\4th\Zuni\Calculator\Calculator\obj\Debug\Calculator.UserControl1.resources
+D:\..C++\4th\Zuni\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\..C++\4th\Zuni\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\..C++\4th\Zuni\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\..C++\4th\Zuni\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\..C++\4th\Zuni\Calculator\Calculator\obj\Debug\Calculator.UserControl2.resources
+D:\..C++\4th\Zuni\Calculator\Calculator\obj\Debug\Calculator.UserControl3.resources
+D:\..C++\4th\Zuni\Calculator\Calculator\obj\Debug\Calculator.UserControl4.resources
+D:\..C++\4th\Zuni\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\..work\..C++\4th\Zuni\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\..work\..C++\4th\Zuni\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\..work\..C++\4th\Zuni\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\..work\..C++\4th\Zuni\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\..work\..C++\4th\Zuni\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\..work\..C++\4th\Zuni\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\..work\..C++\4th\Zuni\Calculator\Calculator\obj\Debug\Calculator.UserControl1.resources
+D:\..work\..C++\4th\Zuni\Calculator\Calculator\obj\Debug\Calculator.UserControl2.resources
+D:\..work\..C++\4th\Zuni\Calculator\Calculator\obj\Debug\Calculator.UserControl3.resources
+D:\..work\..C++\4th\Zuni\Calculator\Calculator\obj\Debug\Calculator.UserControl4.resources
+D:\..work\..C++\4th\Zuni\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\..work\..C++\4th\Zuni\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\..work\..C++\4th\Zuni\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\..work\..C++\4th\Zuni\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\..work\1 C++\4th\Zuni\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\..work\1 C++\4th\Zuni\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\..work\1 C++\4th\Zuni\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\..work\1 C++\4th\Zuni\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\..work\1 C++\4th\Zuni\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\..work\1 C++\4th\Zuni\Calculator\Calculator\obj\Debug\Calculator.UserControl1.resources
+D:\..work\1 C++\4th\Zuni\Calculator\Calculator\obj\Debug\Calculator.UserControl2.resources
+D:\..work\1 C++\4th\Zuni\Calculator\Calculator\obj\Debug\Calculator.UserControl3.resources
+D:\..work\1 C++\4th\Zuni\Calculator\Calculator\obj\Debug\Calculator.UserControl4.resources
+D:\..work\1 C++\4th\Zuni\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\..work\1 C++\4th\Zuni\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\..work\1 C++\4th\Zuni\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\..work\1 C++\4th\Zuni\Calculator\Calculator\obj\Debug\Calculator.pdb
